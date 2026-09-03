@@ -7,7 +7,7 @@
 
 ## Network Setup:
 
-![alt text](NetworkDiagram.png)
+![alt text](Images/NetworkDiagram.png)
 
 ## To-do:
 - [x] Setup Pfsense (Create WAN and AD firewall rules)
